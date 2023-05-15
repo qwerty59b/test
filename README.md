@@ -1,6 +1,8 @@
 # Python app to Save files from torrent to google drive
 Whatever you want to download from torrent, simply add its magnet link to this application, it will save the content to your google drive in seconds, Now you can download that file to your local pc from google drive at high speed.
 
+<a href="https://colab.research.google.com/drive/12hdEqaidRZ8krqj7rpnyDzg1dkKmvdvp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## How to use this application ?
 Step 1: Open google Colab, Use this link https://colab.research.google.com/ 
 
